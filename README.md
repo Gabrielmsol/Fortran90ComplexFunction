@@ -1,3 +1,5 @@
+#  Fortran90ComplexFunction
+
 Before trying out the code, note:
 * You need to have gfortran or intel compiler for Fortran and gnuplot, the code itself was only tested and compiled on gfortran.
 * The code setup.f90 only works on Linux and Unix-like operating systems, since we use the 'mkdir' command,
